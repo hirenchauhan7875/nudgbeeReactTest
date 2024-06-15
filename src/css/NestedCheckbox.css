@@ -1,0 +1,19 @@
+.nested-checkbox {
+    margin: 10px 0;
+}
+
+.parent-checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.child-checkboxes {
+    padding-left: 20px;
+}
+
+.child-checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+}

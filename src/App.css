@@ -1,0 +1,61 @@
+.main-container {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+input[type="text"] {
+  width: 50%;
+}
+.button-group {
+  margin-bottom: 20px;
+}
+
+.button-group button, button, input {
+  margin-right: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.component-container {
+  margin-top: 20px;
+}
+
+.component {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.progress-bar-component .button-group {
+  margin-bottom: 10px;
+}
+
+.progress-bar-container {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 20px;
+  transition: width 0.5s;
+}
+
+.error-text {
+  color: red;
+}
+
+.cancel-text {
+  color: orange;
+}
+
+.data-display {
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.nested-checkbox {
+  margin: 20px 0;
+}
